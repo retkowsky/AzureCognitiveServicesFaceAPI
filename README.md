@@ -1,6 +1,8 @@
-# Azure Cognitive Services demos.
+# Azure Cognitive Services demos
 
 Some Python notebooks about Azure Cognitive Services.
+
+https://azure.microsoft.com/en-us/services/cognitive-services/
 
 09-Jun-2021
 
