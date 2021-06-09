@@ -1,4 +1,4 @@
-#Azure Cognitive Services demos.
+# Azure Cognitive Services demos.
 
 Some Python notebooks about Azure Cognitive Services.
 
