@@ -1,6 +1,4 @@
-# Azure Cognitive Services demos
-
-Some Python notebooks about Azure Cognitive Services.
+# Azure Face API demos
 
 https://azure.microsoft.com/en-us/services/cognitive-services/
 
